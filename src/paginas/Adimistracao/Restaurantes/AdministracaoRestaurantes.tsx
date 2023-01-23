@@ -24,7 +24,7 @@ const AdministracaoRestaurantes = () =>{
                 <TableHead>
                     <TableRow>
                         <TableCell>
-                            Nome
+                            name
                         </TableCell>
                     </TableRow>
                 </TableHead>
